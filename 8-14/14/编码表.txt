@@ -1,0 +1,4 @@
+             编码         类型       encode之后类型      decode之后类型
+"a"          #ascii,     str            str               unicode
+"中国"       #utf-8      str          不可编码             unicode
+u"中国"      #utf-8     unicode        不可以编码          不可以解码
