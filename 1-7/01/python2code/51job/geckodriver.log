@@ -1,0 +1,17 @@
+1507606276719	geckodriver	INFO	Listening on 127.0.0.1:13860
+1507606278720	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507606278986	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507606279403	Marionette	INFO	Enabled via --marionette
+1507606281397	Marionette	INFO	Listening on port 13871
+1507606281404	Marionette	INFO	Listening on port 13871
+1507606281851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507606281901	Marionette	DEBUG	loaded listener.js
+1507606281947	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507606282161	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507606282162	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507606285493	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=040000&keyword=python%20web&keywordtype=2&lang=c&stype=2&postchannel=0000&fromType=1&confirmdate=9"
+1507606286280	Marionette	DEBUG	Received DOM event "pageshow" for "http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=040000&keyword=python%20web&keywordtype=2&lang=c&stype=2&postchannel=0000&fromType=1&confirmdate=9"
+Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507606275979	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=040000&keyword=python%20%E6%95%B0%E6%8D%AE&keywordtype=2&lang=c&stype=2&postchannel=0000&fromType=1&confirmdate=9"
+1507606276063	Marionette	DEBUG	Received DOM event "pageshow" for "http://search.51job.com/jobsearch/search_result.php?fromJs=1&jobarea=040000&keyword=python%20%E6%95%B0%E6%8D%AE&keywordtype=2&lang=c&stype=2&postchannel=0000&fromType=1&confirmdate=9"
+ob.com/jobsearch/search_result.php?fromJs=1&jobarea=040000&keyword=python%20%E6%B5%8B%E8%AF%95&keywordtype=2&lang=c&stype=2&postchannel=0000&fromType=1&confirmdate=9"

@@ -1,0 +1,27 @@
+1507799683327	geckodriver	INFO	Listening on 127.0.0.1:57508
+1507799685349	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507799685782	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507799686182	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Tsinghua-yincheng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4760] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Tsinghua-yincheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7856] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7856] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1507799688144	Marionette	INFO	Listening on port 57516
+1507799688162	Marionette	INFO	Listening on port 57516
+1507799688479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507799688524	Marionette	DEBUG	loaded listener.js
+1507799688557	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507799688902	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507799688903	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507799689411	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=cHl0aG9u&_input_charset=UTF-8"
+1507799695752	Marionette	DEBUG	Received DOM event "pageshow" for "https://job.alibaba.com/zhaopin/positionList.htm?keyWord=cHl0aG9u&_input_charset=UTF-8"
+Unable to read VR Path Registry from C:\Users\Tsinghua-yincheng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://job.alibaba.com/assets/zhaopin/js/lib/jscalendar/My97DatePicker.html, line 28: unreachable code after return statement
+JavaScript warning: https://job.alibaba.com/assets/zhaopin/js/lib/jscalendar/My97DatePicker.html, line 28: unreachable code after return statement
+rn statement
+00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5356] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5356] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1507798608487	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1507798608505	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error

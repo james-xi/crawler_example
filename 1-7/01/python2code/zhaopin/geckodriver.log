@@ -1,0 +1,33 @@
+1507604869281	geckodriver	INFO	Listening on 127.0.0.1:10165
+1507604871292	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507604871712	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507604872255	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Tsinghua-yincheng\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5312] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Tsinghua-yincheng\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7292] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7292] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1507604877714	Marionette	INFO	Listening on port 10177
+1507604877838	Marionette	INFO	Listening on port 10177
+1507604878684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507604878786	Marionette	DEBUG	loaded listener.js
+1507604879013	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507604881075	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507604881075	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Tsinghua-yincheng\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://webapi.amap.com/maps?v=1.3&key=c4746acf0aa8c8a139fae3a1a47fc9a0, line 12: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: http://webapi.amap.com/maps?v=1.3&key=c4746acf0aa8c8a139fae3a1a47fc9a0, line 12: Error: WebGL warning: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+JavaScript warning: http://webapi.amap.com/maps?v=1.3&key=c4746acf0aa8c8a139fae3a1a47fc9a0, line 12: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: http://webapi.amap.com/maps?v=1.3&key=c4746acf0aa8c8a139fae3a1a47fc9a0, line 12: Error: WebGL warning: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+1507604888513	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=python%20web&p=1&isadv=0"
+1507604888542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=python%20web&p=1&isadv=0"
+1507604888546	Marionette	DEBUG	Received DOM event "pageshow" for "http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=python%20web&p=1&isadv=0"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1507604893459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10&jzqs=m-196569-0"
+1507604894660	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=mefvtaehf1s7dgvogbftn28fog"
+1507604897482	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=mefvtaehf1s7dgvogbftn28fog"
+1507604903131	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10&jzqs=m-196569-0"
+1507604903238	Marionette	DEBUG	Received DOM event "pageshow" for "http://sou.zhaopin.com/jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=python%20web&p=1&isadv=0"
+ error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2412] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2412] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
